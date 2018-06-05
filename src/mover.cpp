@@ -19,7 +19,7 @@ int main(int argc, char **argv)
   {
     geometry_msgs::Twist msg;
 
-    float freq = 2.0;
+    float freq = 0.5;
 
     ros::Time ctime = ros::Time::now();
 
